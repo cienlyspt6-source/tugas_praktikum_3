@@ -29,4 +29,4 @@
 <body>
 <div class="wrap">
 <h1>📚 Catatan Kuliah</h1>
-<p class="sub">Praktikum Komputasi Awan – Aldi (102062400104)</p>
+<p class="sub">Praktikum Komputasi Awan – Cienly (102062400042)</p>
